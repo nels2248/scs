@@ -53,3 +53,7 @@ Based upon the chart above and data found here are is what I found:
 2. 2021 and 2022 saw an emergence of items related to backups and isnurance
 3. Although the first blog was posted in 2011, not many article were posted until 2021
 4. Fabric and Azure saw emergence in late 2023
+
+## Related PowerBI
+Within this reporsitory is a .pbix file.  Here is that pbix published to powerbi.
+https://app.powerbi.com/view?r=eyJrIjoiNzgwODE0MDQtNDU5Yi00OGMwLWIzMDktNmY2MzA1N2E1MTgwIiwidCI6IjI4NTAzNWRhLTg3MmEtNGQ3Yy04OTIyLWVlYTcxOTU1MWYxMiIsImMiOjN9
