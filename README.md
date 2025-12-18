@@ -45,7 +45,7 @@ This contains 4 Python scripts, each designed to handle a different data process
 
 ## Final Output
 Here is the ouptput as .png file if you don't want to open the .html that was also created
-![Cumulative Line Chart](single_colored_cumulative_line.png)
+![Cumulative Line Chart](scrape_blog_data/teamscs_cumulative_blog_clusters.png)
 
 ## Findings/Analysis
 Based upon the chart above and data found here are is what I found:
