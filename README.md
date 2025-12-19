@@ -1,4 +1,4 @@
-# Scrape of Castlelake Article Posts To Display Blogs into 5 Groups by 2 Common Keywords
+# Scrape of Superior Consulting Services Article Posts To Display Blogs into 5 Groups by 2 Common Keywords
 
 ## Overview
 This project scapes the Superior Consulting Services Blog Postings and groups them into 5 categories by the 3 most common words.  It then displays a line chart of the cumulative posts over time.  
